@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>guiFont.spritefont</Source>
+      <Name>guiFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\guiFont.xnb</Output>
+      <Time>2015-04-07T15:51:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>titleFont.spritefont</Source>
+      <Name>titleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\titleFont.xnb</Output>
+      <Time>2015-04-07T16:08:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PoStadium.mp3</Source>
+      <Name>PoStadium</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\PoStadium.xnb</Output>
+      <Extra>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\PoStadium.wma</Extra>
+      <Time>2015-04-07T21:49:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hit.wav</Source>
+      <Name>hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\hit.xnb</Output>
+      <Time>2015-04-07T23:24:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hitWall.wav</Source>
+      <Name>hitWall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\hitWall.xnb</Output>
+      <Time>2015-04-07T23:35:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>dittoHit.wav</Source>
+      <Name>dittoHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\dittoHit.xnb</Output>
+      <Time>2015-04-07T23:37:20-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{BC767347-90FD-4A41-A9D5-088D4C612494}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hau5\Google Drive\School\Game Dynamics\Assignments\Assignment 4 (1)\PPContent\PPContent\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T17:56:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-26T20:19:58.0325278-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
